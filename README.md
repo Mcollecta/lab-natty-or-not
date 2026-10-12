@@ -19,33 +19,19 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ### Template
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Rap do Futuro da IA 🎤🤖
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Um rap empolgante sobre o futuro da IA, explorando
+a parceria entre humanos e inteligências artificiais
+na criação de arte, música e código.
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+## 🤖 Tecnologias de IAs usadas
+- [ChatGPT](https://chat.openai.com) – criação da letra
+- [Suno](https://suno.com) – geração do áudio
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 🎤 Resultado
+[Clique aqui para ouvir a música](https://suno.com/s/QZLn1JobzloCMQwP )
+## 💭 Reflexão
+Um processo de aprendizagem muito empolgante e animador.
+Gostei muito e percebi como a IA é incrível e criativa se usada do modo certo.
